@@ -1,6 +1,6 @@
-# Executive_AI
+# STRATOS
 
-Executive_AI is a hackathon backend for multi-agent executive decision support. It turns business text and optional PDF, DOCX, or TXT documents into normalized context, then uses six Gemini-backed specialist agents to produce a structured executive report.
+STRATOS is a hackathon backend for multi-agent executive decision support. It turns business text and optional PDF, DOCX, or TXT documents into normalized context, then uses six Gemini-backed specialist agents to produce a structured executive report.
 
 ## Architecture
 
