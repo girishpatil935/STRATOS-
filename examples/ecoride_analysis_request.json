@@ -1,0 +1,28 @@
+{
+  "business_name": "EcoRide Mobility",
+  "context": {
+    "business_question": "Should EcoRide Mobility expand its electric scooter rental and subscription business from Pune into Mumbai and Bengaluru?",
+    "business_description": "Industry: electric mobility and EV scooter rental. EcoRide Mobility is an early revenue-generating startup in Pune offering hourly electric scooter rentals and monthly subscription plans. Target customers are students, young professionals, and delivery workers. Products include rentals, subscriptions, fleet servicing, and charging partnerships. The expansion budget is approximately ₹2 crore. Competitors include local scooter-rental operators, ride-hailing alternatives, and personal vehicle ownership. Goals are disciplined launches in Mumbai and Bengaluru, recurring subscription growth, and safe fleet utilization. Challenges include demand uncertainty, intense competition, limited digital marketing capacity, fleet scaling, charging access, EV regulation, compliance, and limited capital.",
+    "documents": [
+      {
+        "filename": "ecoride_mobility_notes.txt",
+        "file_type": "txt",
+        "character_count": 482,
+        "status": "success",
+        "extracted_characters": 482,
+        "extraction_status": "success",
+        "preview": "EcoRide Mobility is an early revenue-generating electric scooter rental and subscription startup in Pune.",
+        "truncated": false,
+        "error": null
+      }
+    ],
+    "combined_context": "Business Question:\nShould EcoRide Mobility expand its electric scooter rental and subscription business from Pune into Mumbai and Bengaluru?\n\nBusiness Description:\nEcoRide Mobility is an early revenue-generating electric mobility startup providing affordable scooter rentals and subscription plans in Pune. Target customers are students, young professionals, and delivery workers. The business has an expansion budget of ₹2 crore and wants to understand market demand, competition, financial sustainability, operational risk, EV regulation, and compliance before expanding.\n\nDocument: ecoride_mobility_notes.txt\nEcoRide needs a staged expansion plan and clear operating KPIs.",
+    "metadata": {
+      "number_of_documents": 1,
+      "successful_documents": 1,
+      "failed_documents": 0,
+      "total_character_count": 482,
+      "truncated_documents": 0
+    }
+  }
+}
