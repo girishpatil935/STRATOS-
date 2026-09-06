@@ -763,6 +763,7 @@ Current capabilities:
 
 ## 👥 Project
 
-**STRATOS** — Multi-Agent Executive Decision Intelligence Platform
+**STRATOS** : Multi-Agent Executive Decision Intelligence Platform
 
 Built as a hackathon prototype exploring the use of multi-agent AI orchestration for business strategy and executive decision support.
+**Owner** : **Girish Patil**
